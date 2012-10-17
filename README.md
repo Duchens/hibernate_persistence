@@ -1,0 +1,1 @@
+Test hibernate persistence beta_v01 
