@@ -1,6 +1,6 @@
-package coreservlets.business.dao;
+package hibernate.business.dao;
 
-import coreservlets.business.model.IdEntity;
+import hibernate.business.model.IdEntity;
 import java.util.List;
 
 /**

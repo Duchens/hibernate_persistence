@@ -1,4 +1,4 @@
-package coreservlets.model;
+package hibernate.model;
 
 import java.io.Serializable;
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;

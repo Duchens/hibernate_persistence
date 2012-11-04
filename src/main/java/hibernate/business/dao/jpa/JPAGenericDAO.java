@@ -1,7 +1,7 @@
-package coreservlets.business.dao.jpa;
+package hibernate.business.dao.jpa;
 
-import coreservlets.business.dao.GenericDAO;
-import coreservlets.business.model.IdEntity;
+import hibernate.business.dao.GenericDAO;
+import hibernate.business.model.IdEntity;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

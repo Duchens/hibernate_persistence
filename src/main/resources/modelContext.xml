@@ -29,7 +29,7 @@ http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
 
     <context:annotation-config />
 
-    <context:component-scan base-package="coreservlets" />
+    <context:component-scan base-package="hibernate" />
 
     <tx:annotation-driven transaction-manager="transactionManager" />
 

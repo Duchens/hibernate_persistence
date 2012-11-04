@@ -17,7 +17,7 @@ http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
     <bean id="dataSource"
           class="org.springframework.jdbc.datasource.DriverManagerDataSource"
           p:driverClassName="com.mysql.jdbc.Driver" 
-          p:url="jdbc:mysql://localhost/elo"
+          p:url="jdbc:mysql://localhost/example_hibernate"
           p:username="root" 
           p:password="root" />
 </beans>

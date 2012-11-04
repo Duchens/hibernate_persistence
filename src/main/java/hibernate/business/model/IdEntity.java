@@ -1,6 +1,6 @@
-package coreservlets.business.model;
+package hibernate.business.model;
 
-import coreservlets.model.BaseBean;
+import hibernate.model.BaseBean;
 import org.apache.commons.lang.ObjectUtils;
 
 public abstract class IdEntity extends BaseBean {

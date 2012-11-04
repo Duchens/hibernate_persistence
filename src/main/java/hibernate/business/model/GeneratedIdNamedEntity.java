@@ -1,4 +1,4 @@
-package coreservlets.business.model;
+package hibernate.business.model;
 
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
